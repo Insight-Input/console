@@ -1,0 +1,52 @@
+[
+	{
+		"date": "09-30-2022",
+		"title": "Insight Input",
+		"description": "SpaceRoamers adjusted the playground to start building their solution for the 2 days hackathon.",
+		"icon": "feather:clipboard",
+		"link": {
+			"text": "Insight Input",
+			"url": "https://github.com/Insight-Input"
+		}
+	},
+	{
+		"date": "09-28-2022",
+		"title": "Understanding the Challenge",
+		"description": "SpaceRoamers dove deep into understanding the challenge and it resources.",
+		"icon": "feather:maximize-2",
+		"link": {
+			"text": "Resources",
+			"url": "https://2022.spaceappschallenge.org/challenges/2022-challenges/art-worlds/resources"
+		}
+	},
+	{
+		"date": "09-25-2022",
+		"title": "The Art in our Worlds",
+		"description": "SpaceRoamers decided to work on The Art in our Worlds Challenge.",
+		"icon": "feather:target",
+		"link": {
+			"text": "Challenge",
+			"url": "https://2022.spaceappschallenge.org/challenges/2022-challenges/art-worlds"
+		}
+	},
+	{
+		"date": "09-24-2022",
+		"title": "SpaceApps Challenges",
+		"description": "SpaceRoamers explored in depths all the challenges.",
+		"icon": "feather:navigation",
+		"link": {
+			"text": "SpaceApps",
+			"url": "https://2022.spaceappschallenge.org/challenges/"
+		}
+	},
+	{
+		"date": "09-23-2022",
+		"title": "SpaceRoamers Initiative",
+		"description": "Oussama & Reda created SpaceRoamers to participate in NASA International SpaceApps Challenge 2022.",
+		"icon": "feather:briefcase",
+		"link": {
+			"text": "SpaceRoamers",
+			"url": "https://2022.spaceappschallenge.org/challenges/2022-challenges/art-worlds/teams/space-roamers"
+		}
+	}
+]

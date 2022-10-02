@@ -1,0 +1,64 @@
+[
+	{
+		"aliases": [
+			"search",
+			"api",
+			"nasa"
+		],
+		"bonus": "Used in II Search App",
+		"code": "NULL",
+		"color": "#1565c0",
+		"description": "NASA data, including imagery, eminently accessible to application developers.",
+		"homepage": "https://api.nasa.gov/",
+		"icon": "heroicons-outline:code",
+		"name": "NASA APIs",
+		"url": "https://api.nasa.gov/"
+	},
+	{
+		"aliases": [
+			"console",
+			"website",
+			"demo",
+			"timeline",
+			"docs"
+		],
+		"bonus": "Used in II Console Website",
+		"code": "NULL",
+		"color": "#1565c0",
+		"description": "II Console Website",
+		"homepage": "https://github.com/NuroDev/nuro.dev/",
+		"icon": "heroicons-outline:terminal",
+		"name": "NuroDev",
+		"url": "https://github.com/NuroDev/nuro.dev/blob/main/LICENSE"
+	},
+	{
+		"aliases": [
+			"landing",
+			"website",
+			"project",
+			"presentation"
+		],
+		"bonus": "Used in II Project Presentation Website",
+		"code": "NULL",
+		"color": "#1565c0",
+		"description": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React.",
+		"homepage": "https://github.com/cruip/tailwind-landing-page-template",
+		"icon": "heroicons-outline:globe",
+		"name": "Cruip",
+		"url": "https://github.com/cruip/tailwind-landing-page-template#terms-and-license"
+	},
+	{
+		"aliases": [
+			"ai",
+			"api"
+		],
+		"bonus": "Used in II AI API",
+		"code": "NULL",
+		"color": "#1565c0",
+		"description": "Build AI-powered semantic search applications.",
+		"homepage": "https://github.com/neuml/txtai",
+		"icon": "heroicons-outline:globe",
+		"name": "TxtAI",
+		"url": "https://github.com/neuml/txtai/blob/master/LICENSE"
+	}
+]
